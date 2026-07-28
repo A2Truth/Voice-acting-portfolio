@@ -33,3 +33,7 @@ p {
  height: auto;
  align-content: center;
 }
+
+#bottom {
+ background-color: #89B1D2;
+}
