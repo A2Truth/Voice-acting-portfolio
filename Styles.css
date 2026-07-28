@@ -11,11 +11,12 @@ body {
 footer {
   background-color: #89B1D2;
   width: 100%;
+  text-align: left;
 }
 
 h1 {
  color: #142180;
- font-size: 30%;
+ font-size: 300%;
  text-align: center;
 }
 
