@@ -32,6 +32,11 @@ p {
  align-content: center;
 }
 
+#certification {
+  width: auto;
+ height: auto;
+}
+
 #bottom {
  background-color: #89B1D2;
 }
