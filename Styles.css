@@ -13,8 +13,8 @@ footer {
 
 h1 {
  color: #142180;
- font-size: large;
- align: center;
+ font-size: 30%;
+ text-align: center;
 }
 
 p {
@@ -22,6 +22,8 @@ p {
  text-align: justify;
  min-width: 300px;
  max-width: 100%;
+ padding-left: 10%;
+ padding-right: 10%;
 }
 
 img {
