@@ -20,8 +20,7 @@ h1 {
 p {
  color: #142180;
  text-align: justify;
- min-width: 300px;
- max-width: 100%;
+ max-width: 500px;
  padding-left: 10%;
  padding-right: 10%;
 }
