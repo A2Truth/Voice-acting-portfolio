@@ -30,6 +30,10 @@ p {
  max-width: 600px;
 }
 
+#bio {
+ text-align: center;
+}
+
 #MidShot {
  max-width: 100%;
  min-width: 50px;
