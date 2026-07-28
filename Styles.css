@@ -1,4 +1,4 @@
-header {
+head {
  background-color: #92A8D1; 
 }
 
@@ -9,4 +9,17 @@ body {
 footer {
   background-color: #89B1D2;
   width: 100%;
+}
+
+h1 {
+ color: #142180;
+ font-size: large;
+ align: center;
+}
+
+p {
+ color: #142180;
+ text-align: justify;
+ min-width: 300px;
+ max-width: 100%;
 }
