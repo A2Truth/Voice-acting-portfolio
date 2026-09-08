@@ -1,14 +1,13 @@
 .navbar {
  background-color: #92A8D1;
  display: flex; 
- gap: 5%;
+ gap: 25%;
 }
 
 .navlink {
  color: #142180;
  text-decoration: none;
  font-size: 40px;
- padding: 5px 20% 5px 20%;
  display: inline-block;
 }
 
