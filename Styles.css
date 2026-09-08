@@ -75,8 +75,8 @@ p {
   justify-content: center;
 }
 
-#bottom {
- background-color: #89B1D2;
+.bottom {
+ color: #89B1D2;
  margin: 0px;
  padding: 0px;
 }
