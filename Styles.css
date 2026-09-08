@@ -9,13 +9,17 @@
 .navlink {
  color: #142180;
  text-decoration: none;
- font-size: 20px;
- padding: 5px 10% 5px 10%;
+ font-size: 40px;
+ padding: 5px 20% 5px 20%;
  display: inline-block;
 }
 
 .nav-link:hover {
  background-color: #0059b3; 
+ text-color: white;
+}
+
+.nav-link:hover p {
  text-color: white;
 }
 
