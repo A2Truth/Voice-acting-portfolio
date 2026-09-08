@@ -17,6 +17,8 @@ nav {
 .navbar {
  display: flex; 
  gap: 35%;
+ justify-content: center;
+ align-items: center;
 }
 
 .navlink {
@@ -24,12 +26,16 @@ nav {
  text-decoration: none;
  font-size: 40px;
  display: inline-block;
+ justify-content: center;
+ align-items: center;
 }
 
 .navlink a {
  text-decoration: none;
  font-size: 16px;
  color: #142180;
+ justify-content: center;
+ align-items: center;
 }
 
 .nav-link:hover {
