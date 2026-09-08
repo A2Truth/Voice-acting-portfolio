@@ -58,10 +58,12 @@ p {
 
 #MidShot {
  width: 50%;
- min-width: 50px;
+ min-width: 500px;
  height: auto;
  justify-content: center;
  align-items: center;
+ margin-left: auto;
+ margin-right: auto;
 }
 
 #certification {
