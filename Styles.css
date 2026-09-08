@@ -26,8 +26,8 @@ nav {
  text-color: #FFFFFF;
 }
 
-.nav-link:hover p {
- text-color: #FFFFFF;
+.nav-link:hover a {
+ color: #FFFFFF;
 }
 
 a {
