@@ -4,6 +4,11 @@
  align-items: center;
 }
 
+nav {
+ justify-content: center;
+ align-items: center;
+}
+ 
 .navbar {
  display: flex; 
  gap: 35%;
