@@ -19,13 +19,13 @@ head {
 
 .nav-link:hover {
  background-color: #0059b3; 
+ text-color: white;
 }
 
 body {
   background-color: #CBEDFB;
   margin-left: 5px;
   margine-right: 5px;
-  padding: 0% 30% 0% 30%;
 }
 
 footer {
@@ -52,6 +52,7 @@ p {
 
 #bio {
  text-align: center;
+ padding: 0% 30% 0% 30%;
 }
 
 #MidShot {
