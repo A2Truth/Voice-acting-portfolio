@@ -5,8 +5,13 @@
 }
 
 nav {
+ display: flex;
  justify-content: center;
  align-items: center;
+  padding: 10px 20px;
+  height: 80px;
+  width: 700px;
+  border-radius: 10px;
 }
  
 .navbar {
