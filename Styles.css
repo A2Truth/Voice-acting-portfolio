@@ -1,5 +1,7 @@
 .container {
  color: #92A8D1
+ justify-content: center;
+ align-items: center;
 }
 
 .navbar {
