@@ -1,19 +1,16 @@
-head {
- background-color: #92A8D1; 
-}
-
 .navbar {
  background-color: #92A8D1;
  display: flex; 
  gap: 5%;
  padding: 0%;
+ margin: 10px;
 }
 
 .navlink {
  color: #142180;
  text-decoration: none;
  font-size: 20px;
- padding: 10px 15px;
+ padding: 5px 10% 5px 10%;
  display: inline-block;
 }
 
