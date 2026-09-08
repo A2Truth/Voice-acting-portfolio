@@ -4,7 +4,7 @@
 
 .navbar {
  display: flex; 
- gap: 25%;
+ gap: 35%;
 }
 
 .navlink {
@@ -22,6 +22,7 @@
 .nav-link:hover p {
  text-color: #FFFFFF;
 }
+
 a {
  text-decoration: none;
 }
