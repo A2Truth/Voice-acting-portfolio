@@ -84,7 +84,7 @@ p {
 
 #MidShot {
  width: 700px;
- min-width: 100%;
+ max-width: 100%;
  height: auto;
  display: auto;
  margin-left: auto;
