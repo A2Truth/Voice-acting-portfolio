@@ -14,7 +14,7 @@ nav {
  
 .navbar {
  display: flex; 
- gap: 25%;
+ gap: 15%;
  justify-content: center;
  align-items: center;
 }
