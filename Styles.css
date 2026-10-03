@@ -4,6 +4,9 @@
  align-items: center;
 }
 
+a {
+  text-decoration: none;
+}
 nav {
  display: flex;
  justify-content: center;
