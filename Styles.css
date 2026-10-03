@@ -7,6 +7,7 @@
 a {
   text-decoration: none;
 }
+
 nav {
  display: flex;
  justify-content: center;
@@ -51,6 +52,7 @@ nav {
 .contact {
  text-color: #142180;
 }
+
 body {
   background-color: #CBEDFB;
   margin-left: 5px;
